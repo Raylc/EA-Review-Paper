@@ -1,0 +1,50 @@
+---
+title: "Inferring cultural reproduction from lithic data: A critical review "
+author:
+- Cheng Liu^[Department of Anthropology, Emory University, Atlanta, GA, USA; raylc1996@outlook.com]
+- Dietrich Stout^[Department of Anthropology, Emory University, Atlanta, GA, USA;  dwstout@emory.edu]
+abstract: "The cultural reproduction of lithic technology, long an implicit assumption of archaeological theories, has garnered increasing attention over the past decades. Major debates ranging from the origins of the human culture capacity to the interpretation of spatiotemporal patterning now make explicit reference to social learning mechanisms and cultural evolutionary dynamics. This burgeoning literature has produced important insights and methodological innovations. However, this rapid growth has sometimes also led to confusion and controversy due to an under-examination of methodological assumptions and/or inconsistent use of terminology. The time is thus ripe for an assessment of recent progress in the study of the cultural reproduction of lithic technology. Here we review three central research topics: 1) culture origins, and the identification and interpretation of patterning at 2) intra-site, and 3) inter-site levels. This is followed by further thoughts on how to proceed from the current state of debate with theoretical and methodological pluralism. \\par \\textbf{Keywords:} Cultural transmission, Social learning, Lithic technology, Archaeological evidence"
+
+date: "`r Sys.Date()`"
+fontsize: 11pt
+output: bookdown::pdf_document2
+header-includes:
+   - \usepackage{textcomp}
+   - \usepackage{utopia}
+   - \usepackage{lineno}
+   - \linenumbers
+   - \usepackage{float}
+   - \floatplacement{figure}{H}
+   - \usepackage{caption}
+   - \captionsetup[figure]{font=scriptsize}
+   - \captionsetup[table]{font=scriptsize}
+linestretch: 1.5
+link-citations: yes
+linkcolor: blue
+bibliography: References.bib
+csl: evolutionary-anthropology.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+From its earliest origins, archaeology has been concerned with identifying, documenting, and understanding past human cultures and their patterns of change through space and time. However, there has been little enduring consensus of what "culture" actually is or the processes by which it changes. Indeed, the history of the discipline has been one of ever-changing paradigm shifts, ranging from the early debate between migrationism and diffusionism in cultural history to the functionalism of processual archaeology and on to more recent evolutionary approaches [@tostevin2012]. Despite this fundamental ambiguity, the culture concept continues to lie at the heart of basic units of archaeological taxonomy (e.g., cultures, techno-complexes, industries, traditions, facies, etc.) across micro and macro levels. At the micro-level, shared practices in material culture within a population make it possible for some artifact assemblages to be identified as comparable units. At the macro-level, such sharing is the mechanistic underpinning of cross-unit cultural dynamics from both spatial (isolation and interaction/contact) and temporal (continuity and discontinuity) perspectives.
+
+Although it is unlikely that a lasting consensus on the nature and workings of human culture will be achieved any time soon, recent archaeological approaches have been heavily influenced by the development of cultural evolutionary theory [@boyd1985; @cavalli-sforza1981] and psychological approaches to social learning [@whiten1992; @tomasello1993]. These influences have been immensely productive, but the rapid expansion of contemporary evolutionary archaeology has not been without growing pains and points of theoretical, methodological, and terminological confusion. The time is thus ripe for systematic review and assessment of the state of the field. To this end, we provide a critical overview of evolutionary archaeology theory and review its application to three key research topics in lithic technology: 1) culture origins, and the identification and interpretation of patterning at 2) intra-site, and 3) inter-site levels.
+
+## A brief history of cultural evolution
+
+## Culture as Information
+
+# The origins of human culture
+
+# Identifying cultural reproduction at the intra-site level
+
+# Identifying cultural reproduction at the inter-site level
+
+# Future directions
+
+# References
