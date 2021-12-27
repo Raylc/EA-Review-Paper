@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  16 DEC 2021 18:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.1.28)  26 DEC 2021 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -449,41 +449,122 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 (c:/texlive/2019/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)) (c:/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip57
+\multirow@cntb=\count140
+\multirow@dima=\skip58
+\bigstrutjot=\dimen158
+) (c:/texlive/2019/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen159
+\WF@size=\dimen160
+\c@WF@wrappedlines=\count141
+\WF@box=\box39
+\WF@everypar=\toks29
+Package: wrapfig 2003/01/31  v 3.6
+) (c:/texlive/2019/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks30
+\minrowclearance=\skip59
+) (c:/texlive/2019/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (c:/texlive/2019/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+(c:/texlive/2019/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box40
+\sift@deathcycles=\count142
+\@vwid@loff=\dimen161
+\@vwid@roff=\dimen162
+)
+\c@taburow=\count143
+\tabu@nbcols=\count144
+\tabu@cnt=\count145
+\tabu@Xcol=\count146
+\tabu@alloc=\count147
+\tabu@nested=\count148
+\tabu@target=\dimen163
+\tabu@spreadtarget=\dimen164
+\tabu@naturalX=\dimen165
+\tabucolX=\dimen166
+\tabu@Xsum=\dimen167
+\extrarowdepth=\dimen168
+\abovetabulinesep=\dimen169
+\belowtabulinesep=\dimen170
+\tabustrutrule=\dimen171
+\tabu@thebody=\toks31
+\tabu@footnotes=\toks32
+\tabu@box=\box41
+\tabu@arstrutbox=\box42
+\tabu@hleads=\box43
+\tabu@vleads=\box44
+\tabu@cellskip=\skip60
+) (c:/texlive/2019/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box45
+) (c:/texlive/2019/texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
+Package: threeparttablex 2013/07/23 v0.3 by daleif
+(c:/texlive/2019/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+(c:/texlive/2019/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-\cslhangindent=\skip57
-\csllabelwidth=\skip58
+\TPTL@width=\skip61
+) (c:/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box46
+\UL@hyphenbox=\box47
+\UL@skip=\skip62
+\UL@hook=\toks33
+\UL@height=\dimen172
+\UL@pe=\count149
+\UL@pixel=\dimen173
+\ULC@box=\box48
+Package: ulem 2019/11/18
+\ULdepth=\dimen174
+) (c:/texlive/2019/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen175
+\c@nlinenum=\count150
+\TeXr@lab=\toks34
+)
+\cslhangindent=\skip63
+\csllabelwidth=\skip64
 (./Review_EA_CL-DS.aux)
 \openout1 = `Review_EA_CL-DS.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Trying to load font information for T1+put on input line 11
-6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Trying to load font information for T1+put on input line 13
+0.
 (c:/texlive/2019/texmf-dist/tex/latex/psnfss/t1put.fd
 File: t1put.fd 2001/06/04 font definitions for T1/put.
 )
-LaTeX Info: Redefining \microtypecontext on input line 116.
+LaTeX Info: Redefining \microtypecontext on input line 130.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 116.
+LaTeX Info: Redefining \showhyphens on input line 130.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -493,17 +574,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 (c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count140
-\scratchdimen=\dimen158
-\scratchbox=\box39
-\nofMPsegments=\count141
-\nofMParguments=\count142
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count143
-\MPscratchDim=\dimen159
-\MPnumerator=\count144
-\makeMPintoPDFobject=\count145
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count151
+\scratchdimen=\dimen176
+\scratchbox=\box49
+\nofMPsegments=\count152
+\nofMParguments=\count153
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count154
+\MPscratchDim=\dimen177
+\MPnumerator=\count155
+\makeMPintoPDFobject=\count156
+\everyMPtoPDFconversion=\toks36
 ) (c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -512,8 +593,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box40
-Package hyperref Info: Link coloring ON on input line 116.
+\AtBeginShipoutBox=\box50
+Package hyperref Info: Link coloring ON on input line 130.
 (c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 (c:/texlive/2019/texmf-dist/tex/latex/refcount/refcount.sty
@@ -521,11 +602,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (c:/texlive/2019/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count146
+\c@section@level=\count157
 )
-LaTeX Info: Redefining \ref on input line 116.
-LaTeX Info: Redefining \pageref on input line 116.
-LaTeX Info: Redefining \nameref on input line 116.
+LaTeX Info: Redefining \ref on input line 130.
+LaTeX Info: Redefining \pageref on input line 130.
+LaTeX Info: Redefining \nameref on input line 130.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -561,14 +642,16 @@ LaTeX Info: Redefining \nameref on input line 116.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-18.
+32.
 (c:/texlive/2019/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-18.
+32.
 (c:/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -576,34 +659,34 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-18.
+32.
 (c:/texlive/2019/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-118.
+132.
 (c:/texlive/2019/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-118.
+132.
 (c:/texlive/2019/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 118.
+(Font)              <12> on input line 132.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 118.
+(Font)              <8> on input line 132.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 118.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 118
+(Font)              <6> on input line 132.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 132
 .
 (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 118
+LaTeX Font Info:    Trying to load font information for U+msb on input line 132
 .
 (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -611,18 +694,18 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for OMS+put on input line 1
-18.
+32.
 (c:/texlive/2019/texmf-dist/tex/latex/psnfss/omsput.fd
 File: omsput.fd 
 )
 LaTeX Font Info:    Font shape `OMS/put/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 132.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 118.
+(Font)              <9> on input line 132.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 118.
+(Font)              <5> on input line 132.
 LaTeX Font Info:    Font shape `OMS/put/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 132.
 (./Review_EA_CL-DS.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 2.
@@ -639,39 +722,32 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 Package caption Warning: Unused \captionsetup[figure] on input line 86.
 See the caption package documentation for explanation.
 
-
-Package caption Warning: Unused \captionsetup[table] on input line 87.
-See the caption package documentation for explanation.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 592.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 612.
 [32]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 592.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 612.
 (./Review_EA_CL-DS.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 592.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 592.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 612.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 612.
  ) 
 Here is how much of TeX's memory you used:
- 15096 strings out of 492162
- 220929 string characters out of 6129062
- 349873 words of memory out of 5000000
- 18826 multiletter control sequences out of 15000+600000
- 143140 words of font info for 197 fonts, out of 8000000 for 9000
+ 16316 strings out of 492162
+ 238037 string characters out of 6129062
+ 374232 words of memory out of 5000000
+ 20001 multiletter control sequences out of 15000+600000
+ 139187 words of font info for 197 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,42p,3008b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{ref-cavalli1981} has been referenced but does not
- exist, replaced by a fixed one
-
-{c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2019/texmf-
-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/t
-exlive/2019/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/tex
-mf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts/t
-ype1/adobe/utopia/putri8a.pfb>
-Output written on Review_EA_CL-DS.pdf (32 pages, 189301 bytes).
+ 41i,13n,49p,3008b,514s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2019/texm
+f-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:
+/texlive/2019/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb><c:/texlive/2019/t
+exmf-dist/fonts/type1/adobe/utopia/putr8a.pfb><c:/texlive/2019/texmf-dist/fonts
+/type1/adobe/utopia/putri8a.pfb>
+Output written on Review_EA_CL-DS.pdf (32 pages, 188663 bytes).
 PDF statistics:
- 580 PDF objects out of 1000 (max. 8388607)
- 534 compressed objects within 6 object streams
- 167 named destinations out of 1000 (max. 500000)
+ 571 PDF objects out of 1000 (max. 8388607)
+ 524 compressed objects within 6 object streams
+ 161 named destinations out of 1000 (max. 500000)
  20561 words of extra memory for PDF output out of 20736 (max. 10000000)
 
